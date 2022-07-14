@@ -1,0 +1,37 @@
+.home{
+    background-image: url('../images/university-of-iowa-1808151.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.signup{
+    background-image: url('../images/university-of-iowa-1808151.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.login{
+    background-image: url('../images/university-of-iowa-1808151.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.admin{
+    background-image: url('../images/university-of-iowa-1808151.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tutor{
+    background-image: url('../images/university-of-iowa-1808151.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tr:hover{
+    background-color: rgb(50, 249, 63);
+}
